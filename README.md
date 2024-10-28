@@ -1,1 +1,2 @@
-# This is a website that Computer Science students can use to learn and verify answers in a variety of topics
+# Learning Computer Science
+Description: This is a website dedicated to help Computer Science students verify and learn various amounts of topics.
